@@ -155,12 +155,9 @@ Puedes **modificarlo, mejorarlo y distribuirlo** libremente.
 
 ## 👨‍💻 **Autor**
 
-Desarrollado como proyecto educativo en **Python + Pygame**.
-Desarrollado por ALEJANDRO MENDIETA
-Hecho con 💙 para fomentar el aprendizaje y la creatividad.
+**-Desarrollado como proyecto educativo en **Python + Pygame**.
+**-Desarrollado por ALEJANDRO MENDIETA**
+**-Hecho con 💙 para fomentar el aprendizaje y la creatividad.**
 
 > 🎯 *“Cada error te acerca más a la palabra correcta.”*
 
----
-
-¿Quieres que te lo deje también en **versión Markdown lista para copiar y pegar en tu repositorio de GitHub** (con emojis bien alineados y compatibilidad total)?
