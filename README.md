@@ -1,10 +1,8 @@
-Perfecto 💪
-Aquí tienes tu **README completamente mejorado y con formato profesional**, listo para GitHub o tu portafolio.
-Le di un **diseño moderno, claro y visual**, manteniendo todo tu contenido, pero con emojis bien ubicados, estructura ordenada y mejor legibilidad.
-
----
 
 # 🎮 **Juego del Ahorcado**
+
+<img width="901" height="636" alt="image" src="https://github.com/Alejandro-Mendieta/JUEGO-DE-AHORCADO-PARA-PRIMARIA/blob/main/assets/FOTOS/foto1.jpg?raw=true" />
+<img width="905" height="633" alt="image" src="https://github.com/Alejandro-Mendieta/JUEGO-DE-AHORCADO-PARA-PRIMARIA/blob/main/assets/FOTOS/foto2.jpg?raw=true" />
 
 Un juego del ahorcado **interactivo** desarrollado en **Python con Pygame**, que incluye múltiples dificultades, sistema de puntuación, efectos visuales y sonoros.
 Perfecto para aprender, jugar y mejorar tus habilidades de lógica y programación 🧠⚡
